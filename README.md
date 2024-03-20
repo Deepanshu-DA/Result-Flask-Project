@@ -21,15 +21,22 @@ Before running the application, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/Deepanshu-DA/Result-Flask-Project.git
-   
 2. Navigate to the project directory
 
    ```bash
    Result-Flask-Project
-
 3. Install dependencies using pip
 
-  ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+
+## Usage
+1. Make sure you have the CSV file containing student data (data.csv) in the data directory.
+2. Run the Flask application:
+   ```bash
+   python app.py
+3. Access the application in your web browser at http://localhost:5000.
+4. Enter a student roll number in the search form and submit the query.
+5. View the search results, which will display basic information and subject grades separately.
 
    
