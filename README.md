@@ -1,10 +1,10 @@
-# Student Data Search Web Application
+# Student Result Search Web Application
 
 This is a simple Flask web application that allows users to search for student data stored in a CSV file. The application displays search results in a user-friendly format, with basic information and subject grades presented separately.
 
 ## Features
 
-- Search for student data by student roll number.
+- Search for student result by student roll number.
 - Display basic information (student roll number, name, gender, date of birth, father's name, mother's name, and school code) and subject grades (English, Mathematics, Social Science, Hindi, and Science) separately.
 
 ## Prerequisites
